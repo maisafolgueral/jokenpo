@@ -1,5 +1,5 @@
 # Pedra-papel-tesoura.py
-# Código em Python do jogo "joquempô"
+Código em Python do jogo joquempô
 import random
 p1 = input('Pedra, papel ou tesoura?').lower()
 print(p1)
